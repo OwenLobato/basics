@@ -24,3 +24,5 @@
   ´´´ <!-- Easy way to run front and back  -->
 
 - Add middlewares and express routes on server
+
+- Refactor router
