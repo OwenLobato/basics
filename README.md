@@ -22,3 +22,5 @@
   "start-client": "npm install && react-scripts start",
   "start-server": "cd server && npm install && npm start",
   ´´´ <!-- Easy way to run front and back  -->
+
+- Add middlewares and express routes on server
