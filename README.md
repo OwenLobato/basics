@@ -13,3 +13,12 @@
 - add package config -> add "type": "module" and "start": "nodemon index.js" <!-- Easy import -->
 
 - create ".gitignore" file on server dir
+
+- Create file "index.js" and add basic server config
+  (https://expressjs.com/es/starter/hello-world.html)
+
+- Config client package with scripts and run both commands
+  ´´´
+  "start-client": "npm install && react-scripts start",
+  "start-server": "cd server && npm install && npm start",
+  ´´´ <!-- Easy way to run front and back  -->
