@@ -26,3 +26,5 @@
 - Add middlewares and express routes on server
 
 - Refactor router
+
+- Make fetch request on client with async/await (try/catch) or .then().catch()
